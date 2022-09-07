@@ -6,7 +6,7 @@
   "author": "Obitrim <pevangelist516@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "run/numbers": "nodemon numbers/index.js"
+    "run:numbers": "nodemon numbers/index.js"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
